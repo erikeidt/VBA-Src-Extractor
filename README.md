@@ -1,5 +1,5 @@
-VBA-Code-Import-Export
-======================
+VBA-Src-Extractor
+=================
 
 This project provides an Excel AddIn that is tool to export/import VBA all the sources to/from a directory in one operation.
 
