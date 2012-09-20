@@ -1,0 +1,8 @@
+
+NOTES: 
+	VBA Code Import Export.xlsm is there for easier viewing; it is a copy of 
+	VBA Code Import Export.xlam, saved as .xlsm instead of .xlam.
+
+	The SourceExports folder is an example of using the tool on itself, so,
+	contains a copy of the only VBA source module in the project.
+

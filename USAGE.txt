@@ -1,0 +1,6 @@
+Usage:
+
+From any macro enabled workbook, click one of the two buttons provided by the .xlam:
+	Export To Folder
+	Import From Folder
+and follow the dialog boxes.

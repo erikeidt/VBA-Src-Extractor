@@ -1,0 +1,21 @@
+
+Install the .xlam file into Excel.
+
+This can be done one of several ways:
+	(1) Excel 2010: 
+		run Excel, use File menu, select Options
+		choose Add-Ins
+		At "Manage" box, verify Excel Add-Ins is selected in dropdown,
+		click "Go..."
+		Click "Browse..." and navigate to the .xlam file.
+		Click "OK"
+		Click "OK"
+	(2) Drag or copy the .xlam file to your Excel Add-Ins folder:
+
+
+You can also open the .xlsm version and use "Save As...", choose the .xlam extension,
+and Excel will automatically open the Add-Ins folder.
+
+	
+See also:
+http://office.microsoft.com/en-us/excel-help/add-or-remove-add-ins-HP010342658.aspx
